@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="en">
+
+
+
+{% include head.html %}
+{% include nav.html %}
+
+
+<body>
+  <div class="row">
+    <div class="post-listing">
+      {{ content }}
+      {% include footer.html %}
+    </div>
+  </div>
+  {% include js.html %}
+</body>
+</html>

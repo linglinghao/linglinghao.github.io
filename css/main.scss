@@ -1,0 +1,21 @@
+---
+# Only the main Sass file needs front matter (the dashes are enough)
+---
+@charset "UTF-8";
+
+// Components
+@import "components/variables";
+@import "components/buttons";
+
+// Pages styling
+@import "pages/index";
+
+// layout
+@import "layout/header.scss";
+@import "layout/course.scss";
+@import "layout/blog.scss";
+@import "layout/contact.scss";
+@import "layout/info.scss";
+@import "layout/association.scss";
+@import "layout/footer.scss";
+
