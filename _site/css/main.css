@@ -129,6 +129,8 @@ table td { border-width: 1px; padding: 8px; border-style: solid; border-color: #
 
 .course-top .post-content { background-color: #f6f6f6; background-image: none; padding: 50px; }
 
+.course-top .post-content h1 { text-align: center; color: #8f5815; }
+
 .course-top .post-content h2 { text-align: center; color: #8f5815; }
 
 .course-top .post-content p { padding-left: 20px; }

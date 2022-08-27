@@ -9,7 +9,7 @@ date:   2014-01-01 +0800
 categories: course
 comments: true
 ---
-<h2>Karuna 灵气1-4阶（ 西藏+圣火）</h2>
+<h1>Karuna 灵气课程 1-4阶（ 西藏+圣火）</h1>
 <p>学习卡鲁娜灵气（Karuna Reiki )12个符号且接受点化&其他理论知识；导师展示如何进行卡鲁娜灵气（Karuna Reiki )点化，学生练习点化流程&其他理论知识</p>
 
 课程介绍
