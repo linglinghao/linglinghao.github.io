@@ -2,31 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3f77a5ac-c66a-47a4-9893-5accb8df5923" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_includes/head.html" beforeDir="false" afterPath="$PROJECT_DIR$/_includes/head.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_posts/2020-01-01-course-angel.markdown" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2020-01-01-course-angel.markdown" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/association.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/association.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/blog-distance-reiki.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/blog-distance-reiki.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/blog-five-principle.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/blog-five-principle.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/blog-history.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/blog-history.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/blog-more.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/blog-more.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/blog-reiki-auras.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/blog-reiki-auras.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/blog-reiki-meditation.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/blog-reiki-meditation.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/blog-reiki.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/blog-reiki.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/blog-uses-of-reiki.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/blog-uses-of-reiki.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/candle-magick.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/candle-magick.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/course-angel.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/course-angel.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/course-animal.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/course-animal.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/course-crystal.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/course-crystal.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/course-egyptian.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/course-egyptian.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/course-green-tara.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/course-green-tara.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/course-kundalini.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/course-kundalini.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/course-money.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/course-money.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/course-reiki-1-2-3.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/course-reiki-1-2-3.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/course-reiki-karuna.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/course-reiki-karuna.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/course-reiki-master.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/course-reiki-master.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/course-shamballa.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/course-shamballa.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/course-violet.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/course-violet.html" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -87,7 +63,7 @@
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
               <first_editor relative-caret-position="39">
-                <caret line="4" column="40" selection-start-line="4" selection-start-column="40" selection-end-line="4" selection-end-column="40" />
+                <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
               </first_editor>
               <second_editor />
             </state>
@@ -264,12 +240,12 @@
       <updated>1661313114764</updated>
       <workItem from="1661313116208" duration="4980000" />
       <workItem from="1661319733085" duration="4081000" />
-      <workItem from="1661566666146" duration="837000" />
+      <workItem from="1661566666146" duration="933000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="9898000" />
+    <option name="totallyTimeSpent" value="9994000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="142" y="23" width="1400" height="837" extended-state="0" />
@@ -599,7 +575,7 @@
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="39">
-            <caret line="4" column="40" selection-start-line="4" selection-start-column="40" selection-end-line="4" selection-end-column="40" />
+            <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
           </first_editor>
           <second_editor />
         </state>
