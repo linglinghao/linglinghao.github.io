@@ -1,7 +1,7 @@
 ---
 layout: course
 title:  "香巴拉灵气课"
-description: '香巴拉灵气课程 默哈玛 能量球 紫火'
+description: '香巴拉灵气课程,默哈玛,能量球,紫火'
 desc: '整个体系学习完成后，你将获得无条件的爱，以及高等智慧等，形成一套体系'
 img: '/img/banner.jpg'
 suit: [

@@ -1,7 +1,7 @@
 ---
 layout: course
 title:  "水晶灵气课"
-description: '水晶灵气课,学习水晶净化，水晶充能，水晶编程等'
+description: '水晶灵气课,学习水晶净化,水晶充能,水晶编程等'
 desc: '通过将水晶的强大振动与灵气能量想结合，可以协助和改善我们生命中物质的不平衡以及精神/情感的混乱。'
 img: '/img/banner.jpg'
 suit: [
