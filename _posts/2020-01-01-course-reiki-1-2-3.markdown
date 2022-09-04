@@ -11,7 +11,7 @@ categories: course
 comments: true
 ---
 
-<h1>臼井西藏 臼井圣火课程</h2>
+<h2>臼井西藏 臼井圣火课程</h2>
 
 <h2>臼井灵气 I 阶 （ 西藏臼井+臼井圣火）</h2>
 <p class='Gray'>颁发ICRT国际认证&华人灵气协会认证双证书</p>
