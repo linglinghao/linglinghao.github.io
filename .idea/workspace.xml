@@ -3,47 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="3f77a5ac-c66a-47a4-9893-5accb8df5923" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_includes/head.html" beforeDir="false" afterPath="$PROJECT_DIR$/_includes/head.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2020-01-01-association.markdown" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2020-01-01-association.markdown" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2020-01-01-candle-magick.markdown" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2020-01-01-candle-magick.markdown" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2020-01-01-course-angel.markdown" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2020-01-01-course-angel.markdown" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2020-01-01-course-animal.markdown" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2020-01-01-course-animal.markdown" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2020-01-01-course-crystal.markdown" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2020-01-01-course-crystal.markdown" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2020-01-01-course-egyptian.markdown" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2020-01-01-course-egyptian.markdown" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2020-01-01-course-green-tara.markdown" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2020-01-01-course-green-tara.markdown" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2020-01-01-course-kundalini.markdown" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2020-01-01-course-kundalini.markdown" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2020-01-01-course-money.markdown" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2020-01-01-course-money.markdown" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2020-01-01-course-reiki-1-2-3.markdown" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2020-01-01-course-reiki-1-2-3.markdown" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2020-01-01-course-reiki-karuna.markdown" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2020-01-01-course-reiki-karuna.markdown" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2020-01-01-course-reiki-master.markdown" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2020-01-01-course-reiki-master.markdown" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2020-01-01-course-shamballa.markdown" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2020-01-01-course-shamballa.markdown" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2020-01-01-course-violet.markdown" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2020-01-01-course-violet.markdown" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_sass/layout/_course.scss" beforeDir="false" afterPath="$PROJECT_DIR$/_sass/layout/_course.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/association.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/association.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/blog-distance-reiki.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/blog-distance-reiki.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/blog-five-principle.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/blog-five-principle.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/blog-history.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/blog-history.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/blog-more.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/blog-more.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/blog-reiki-auras.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/blog-reiki-auras.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/blog-reiki-meditation.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/blog-reiki-meditation.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/blog-reiki.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/blog-reiki.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/blog-uses-of-reiki.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/blog-uses-of-reiki.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/candle-magick.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/candle-magick.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/contact-us.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/contact-us.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/course-angel.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/course-angel.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/course-animal.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/course-animal.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/course-crystal.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/course-crystal.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/course-egyptian.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/course-egyptian.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/course-green-tara.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/course-green-tara.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/course-info.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/course-info.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/course-kundalini.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/course-kundalini.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/course-money.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/course-money.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/course-reiki-1-2-3.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/course-reiki-1-2-3.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/course-reiki-karuna.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/course-reiki-karuna.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/course-reiki-master.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/course-reiki-master.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/course-shamballa.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/course-shamballa.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/course-violet.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/course-violet.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/index.html" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -96,8 +55,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/_sass/layout/_course.scss">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="272">
-              <caret line="107" column="10" selection-start-line="107" selection-start-column="10" selection-end-line="107" selection-end-column="10" />
+            <state relative-caret-position="409">
+              <caret line="112" column="30" selection-start-line="112" selection-start-column="30" selection-end-line="112" selection-end-column="30" />
             </state>
           </provider>
         </entry>
@@ -203,7 +162,7 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="142" />
+    <option name="x" value="40" />
     <option name="y" value="23" />
     <option name="width" value="1400" />
     <option name="height" value="837" />
@@ -213,6 +172,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -255,7 +215,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -293,16 +252,16 @@
       <updated>1661313114764</updated>
       <workItem from="1661313116208" duration="4980000" />
       <workItem from="1661319733085" duration="4081000" />
-      <workItem from="1661566666146" duration="2858000" />
+      <workItem from="1661566666146" duration="3038000" />
+      <workItem from="1665571222103" duration="5000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="11919000" />
+    <option name="totallyTimeSpent" value="12104000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="142" y="23" width="1400" height="837" extended-state="0" />
-    <editor active="true" />
+    <frame x="40" y="23" width="1400" height="837" extended-state="0" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24945612" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -592,15 +551,34 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2020-01-01-course-money.markdown">
+    <entry file="file://$PROJECT_DIR$/_posts/2020-01-01-course-violet.markdown">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="45">
-            <caret line="3" column="18" selection-start-line="3" selection-end-line="4" />
+            <caret line="3" column="26" selection-start-line="3" selection-start-column="26" selection-end-line="3" selection-end-column="26" />
           </first_editor>
           <second_editor />
         </state>
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2020-02-02-blog-distance-reiki.markdown">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2020-02-02-blog-five-principle.markdown">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_sass/layout/_contact.scss">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/_posts/2020-01-01-course-reiki-1-2-3.markdown">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
@@ -642,39 +620,20 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2020-01-01-course-violet.markdown">
+    <entry file="file://$PROJECT_DIR$/_posts/2020-01-01-course-money.markdown">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="45">
-            <caret line="3" column="26" selection-start-line="3" selection-start-column="26" selection-end-line="3" selection-end-column="26" />
+            <caret line="3" column="18" selection-start-line="3" selection-end-line="4" />
           </first_editor>
           <second_editor />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2020-02-02-blog-distance-reiki.markdown">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor />
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2020-02-02-blog-five-principle.markdown">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor />
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_sass/layout/_contact.scss">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/_sass/layout/_course.scss">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="107" column="10" selection-start-line="107" selection-start-column="10" selection-end-line="107" selection-end-column="10" />
+        <state relative-caret-position="409">
+          <caret line="112" column="30" selection-start-line="112" selection-start-column="30" selection-end-line="112" selection-end-column="30" />
         </state>
       </provider>
     </entry>
