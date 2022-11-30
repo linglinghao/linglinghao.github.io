@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3f77a5ac-c66a-47a4-9893-5accb8df5923" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/_posts/2020-01-01-association.markdown" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2020-01-01-association.markdown" afterDir="false" />
-    </list>
+    <list default="true" id="3f77a5ac-c66a-47a4-9893-5accb8df5923" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -53,8 +51,8 @@
         <entry file="file://$PROJECT_DIR$/_posts/2020-01-01-association.markdown">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="207">
-                <caret line="66" column="20" lean-forward="true" selection-start-line="66" selection-start-column="20" selection-end-line="66" selection-end-column="20" />
+              <first_editor relative-caret-position="222">
+                <caret line="67" selection-start-line="67" selection-end-line="67" />
               </first_editor>
               <second_editor />
             </state>
@@ -254,16 +252,15 @@
       <workItem from="1661319733085" duration="4081000" />
       <workItem from="1661566666146" duration="3038000" />
       <workItem from="1665571222103" duration="5000" />
-      <workItem from="1669811352217" duration="260000" />
+      <workItem from="1669811352217" duration="523000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="12364000" />
+    <option name="totallyTimeSpent" value="12627000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="40" y="23" width="1400" height="837" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24945612" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -632,8 +629,8 @@
     <entry file="file://$PROJECT_DIR$/_posts/2020-01-01-association.markdown">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="207">
-            <caret line="66" column="20" lean-forward="true" selection-start-line="66" selection-start-column="20" selection-end-line="66" selection-end-column="20" />
+          <first_editor relative-caret-position="222">
+            <caret line="67" selection-start-line="67" selection-end-line="67" />
           </first_editor>
           <second_editor />
         </state>

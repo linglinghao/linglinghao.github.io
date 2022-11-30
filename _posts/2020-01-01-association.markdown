@@ -63,7 +63,8 @@ comments: true
 <p><span>Ruoshui Lei</span><span>Ruqing Li</span></p>
 
 <p><span>Saranin(ShuHan Lin)</span><span>Shao Wen</span><span>Shifang Chen</span>
-<span>Shi Yuanyu</span><span>Shi Yan</span><span>Si Xuan Chen</span></p>
+<span>Shi Yuanyu</span><span>Shi Yan</span></p>
+<p><span>Si Xuan Chen</span></p>
 
 <p><span>Wawa</span><span>Wei Ruolin</span><span>Weilin Chen</span></p>
 <p><span>Xiaoying Han</span><span>Xinyu Liang</span><span>Xu Qiyuan</span><span>Xian Nan</span></p>
