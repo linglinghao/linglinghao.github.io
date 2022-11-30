@@ -1,7 +1,7 @@
 ---
 layout: course
 title:  "臼井圣火灵气1-2-3阶"
-description: '臼井圣火课程 ICRT认证课程 灵气五戒 臼井西藏课程1-3阶'
+description: '臼井圣火课程,ICRT认证课程,灵气五戒,臼井西藏课程1-3阶'
 desc: '这门课程需要您有开阔的胸怀和爱</br> 会学习如何疗愈和水晶阵成愿'
 suit: [{ name: '对身心灵感兴趣',imge: '/img/suit-1.jpg'},{ name: '对能量疗愈感兴趣',imge: '/img/suit-2.jpg'},{name: '想成为职业灵气师或疗愈师',imge: '/img/suit-3.jpg'},{name: '灵气不受年龄，宗教限制，任何人都可学习',imge: '/img/suit-4.jpg'}]
 formclass: ['课程时长：2天线下或者线上直播','课程价格：5600元','课程前提：无','报名请添加微信：tarot_hermit']
@@ -11,7 +11,7 @@ categories: course
 comments: true
 ---
 
-<h1>臼井西藏 臼井圣火课程</h2>
+<h2>臼井西藏 臼井圣火课程</h2>
 
 <h2>臼井灵气 I 阶 （ 西藏臼井+臼井圣火）</h2>
 <p class='Gray'>颁发ICRT国际认证&华人灵气协会认证双证书</p>

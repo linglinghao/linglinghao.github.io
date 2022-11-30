@@ -1,7 +1,7 @@
 ---
 layout: magick
 title:  "身心灵学院"
-description: '魔法蜡烛课程'
+description: '华人灵气研究协会,魔法蜡烛课程,魔法蜡烛,魔法,蜡烛'
 desc: '在线动物灵气课程是为任何想要帮助那些与我们共享这个星球的不可思议的动物的人准备的，这门课程需要您有开阔的胸怀和爱'
 date:   2014-01-01 +0800
 categories: magick

@@ -2,7 +2,7 @@
 layout: course
 title:  "天使灵气课"
 excerpt: '天使灵气课程'
-description: '天使灵气课程 angelic reiki course'
+description: '华人灵气研究协会,天使灵气课程,angelic,reiki,course,天使灵气,灵气'
 desc: ' 天使知道我们的一切，他们知道并理解我们的悲伤、焦虑、担心，他们知道我们发出的振动以及请求是什么'
 img: '/img/banner.jpg'
 suit: [

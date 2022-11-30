@@ -1,8 +1,7 @@
 ---
 layout: course
 title:  "昆达里尼灵气课"
-description: '昆达里尼灵气课, 唤醒昆达里尼能量'
-
+description: '昆达里尼灵气课,唤醒昆达里尼能量'
 desc: '在昆达里尼灵气中，你将能够以一种安全而温和的方式获得你身体的基本能量——昆达里尼能量——将它从脊柱底部提升到头顶。'
 img: '/img/banner.jpg'
 suit: [

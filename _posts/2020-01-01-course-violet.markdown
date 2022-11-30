@@ -1,7 +1,7 @@
 ---
 layout: course
 title:  "紫火灵气课"
-description: '紫火灵气课程 净化负能量'
+description: '紫火灵气课程,净化负能量'
 desc: '紫火灵气是圣哲曼大师从源头引入的礼物'
 img: '/img/banner.jpg'
 suit: [

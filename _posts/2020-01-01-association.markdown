@@ -1,7 +1,7 @@
 ---
 layout: association
 title:  "华人灵气研究协会"
-description: '华人灵气研究协会 CRRA  协会准则 协会成员'
+description: '华人灵气研究协会,华人灵气协会,CRRA,协会准则,协会成员'
 desc: '在线动物灵气课程是为任何想要帮助那些与我们共享这个星球的不可思议的动物的人准备的，这门课程需要您有开阔的胸怀和爱'
 date:   2014-01-01 +0800
 categories: course
@@ -61,8 +61,10 @@ comments: true
 <p><span>Poppy Zeng</span></p>
 <p><span>Qin Hua</span></p>
 <p><span>Ruoshui Lei</span><span>Ruqing Li</span></p>
+
 <p><span>Saranin(ShuHan Lin)</span><span>Shao Wen</span><span>Shifang Chen</span>
 <span>Shi Yuanyu</span><span>Shi Yan</span><span>Si Xuan Chen</span></p>
+    <span>Shi Yan</span><span>Si Xuan Chen</span></p>
 <p><span>Wawa</span><span>Wei Ruolin</span><span>Weilin Chen</span></p>
 <p><span>Xiaoying Han</span><span>Xinyu Liang</span><span>Xu Qiyuan</span><span>Xian Nan</span></p>
 <p><span>Yang Ming</span><span>Yan Yu</span><span>Yanyan Gao</span><span>Yan Zhang</span><span>Ye Qing</span></p>
