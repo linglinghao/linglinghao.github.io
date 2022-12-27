@@ -47,7 +47,7 @@ comments: true
 联盟会员如下（可申请展示或者不展示）：
 1. 联盟会员开放给所有独立的灵气从业者和导师
 <div class='member-box'>
-<p><span>Ashley Tsui</span><span>Aana Chen</span></p> 
+<p><span>Aana Chen</span><span>Abby Chen</span><span>Ashley Tsui</span></p> 
 <p><span>Bai Xu</span><span>Bob Na</span><span>Bohan Lv</span></p>
 <p><span>Chang Yuju</span><span>ChenyuePeng</span><span>Chuyin Ricki</span><span>Chu , Kit yu Ayumi</span><span>Crystal Sun</span></p>
 <p><span>Daniel Han</span></p>

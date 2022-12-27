@@ -51,8 +51,8 @@
         <entry file="file://$PROJECT_DIR$/_posts/2020-01-01-association.markdown">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="222">
-                <caret line="67" selection-start-line="67" selection-end-line="67" />
+              <first_editor relative-caret-position="327">
+                <caret line="74" lean-forward="true" selection-start-line="74" selection-end-line="74" />
               </first_editor>
               <second_editor />
             </state>
@@ -252,15 +252,16 @@
       <workItem from="1661319733085" duration="4081000" />
       <workItem from="1661566666146" duration="3038000" />
       <workItem from="1665571222103" duration="5000" />
-      <workItem from="1669811352217" duration="523000" />
+      <workItem from="1669811352217" duration="712000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="12627000" />
+    <option name="totallyTimeSpent" value="12816000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="40" y="23" width="1400" height="837" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24945612" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -629,8 +630,8 @@
     <entry file="file://$PROJECT_DIR$/_posts/2020-01-01-association.markdown">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="222">
-            <caret line="67" selection-start-line="67" selection-end-line="67" />
+          <first_editor relative-caret-position="327">
+            <caret line="74" lean-forward="true" selection-start-line="74" selection-end-line="74" />
           </first_editor>
           <second_editor />
         </state>
