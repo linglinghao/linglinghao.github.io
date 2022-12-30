@@ -33,7 +33,10 @@ comments: true
 
 
 专业会员成员如下（可申请展示或者不展示）：<br>
-1. 专业会员需成为灵气大师且需持有CRAA的1-3阶和导师阶证书
+1. 专业会员需成为灵气大师且需持有CRAA的1-3阶和导师阶证书和Karuna证书
+2. 需要同时学习圣火，西藏两部分内容
+3. 解释权归平台所有，会定期调整
+
 <div class='member-box'>
 <p><span>Ashley Tsui</span> </p>
 <p><span>Hunter Moran</span></p>
