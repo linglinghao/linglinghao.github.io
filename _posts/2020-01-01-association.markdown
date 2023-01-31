@@ -72,7 +72,7 @@ comments: true
 <p><span>Wawa</span><span>Wei Ruolin</span><span>Weilin Chen</span></p>
 <p><span>Xiaoying Han</span><span>Xinyu Liang</span><span>Xu Qiyuan</span><span>Xian Nan</span></p>
 <p><span>Yang Ming</span><span>Yan Yu</span><span>Yanyan Gao</span><span>Yan Zhang</span><span>Ye Qing</span></p>
-<p><span>YiZhen Liu</span><span>Yi Fan . Le</span><span>Yu Shu</span></p>
+<p><span>YiZhen Liu</span><span>Yi Fan . Le</span><span>Yu Shu</span><span>YY Li</span></p>
 <p><span>ZhiShunYang</span><span>Zhou Wenqin</span><span>Zhou Xun</span></p>
 </div>
 
