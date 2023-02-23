@@ -8,9 +8,9 @@ categories: course
 comments: true
 ---
 
-<h1>华人灵气研究协会（CRAA）</h1>
+<h1>华人灵气研究协会（CRRA）</h1>
 华人灵气研究协会是一个聚集华人灵气爱好者的协会，协会成员之间可以互相交换灵气以及探讨灵气发展。<br>
-<p>华人灵气研究协会（CRAA）中心准则:</p>
+<p>华人灵气研究协会（CRRA）中心准则:</p>
 
 1. 诚实正直
 2. 尊重他人的价值观和选择
@@ -21,7 +21,7 @@ comments: true
 7. 全然的接收，全然的贡献
 
 
-华人灵气研究协会（CRAA）会员制度：<br>
+华人灵气研究协会（CRRA）会员制度：<br>
 会员分为两种，联盟会员和专业会员。
 1. 你可以在一年中的任何时候加入，它不是基于日历年，而是基于你的个人开始日期。
 2. 会员开放给所有独立的灵气从业者和导师。
@@ -59,7 +59,7 @@ comments: true
 <p><span>JiaXing Sun</span><span>Jia YuanFei(YouRan)</span><span>Juan Chen</span><span>JUNYAO LI</span></p>
 <p><span>LIXIA JIA</span><span>Lisa Hao</span><span>Lin lin</span><span>Li Jiaying</span><span>Liu Xiaoyue</span></p>
 <p><span>Luo Xiaorui</span></p>
-<p><span>Meng Chen</span><span>Ming Zheng</span><span>Mo Zhou</span></p>
+<p><span>Mai Shi Qi</span><span>Meng Chen</span><span>Ming Zheng</span><span>Mo Zhou</span></p>
 <p><span>Nana Xu</span><span>Ning Qian</span></p>
 <p><span>Poppy Zeng</span></p>
 <p><span>Qin Hua</span></p>
