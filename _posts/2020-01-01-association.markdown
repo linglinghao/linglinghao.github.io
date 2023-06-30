@@ -67,8 +67,7 @@ comments: true
 <p><span>Ruoshui Lei</span><span>Ruqing Li</span><span>Ryann Cheung</span></p>
 
 <p><span>Saranin(ShuHan Lin)</span><span>Shao Wen</span><span>Shifang Chen</span><span>Shi Yuanyu</span><span>Shi Yan</span><span>ShuoShuan Huang
-</span><span>Sichen Wu wy</span><span>Shi Yuanyu</span><span>Sun Yi</span></p>
-<p><span>Si Xuan Chen</span><span>Sandy Li</span></p>
+</span><span>Sichen Wu wy</span><span>Shi Yuanyu</span><span>Sun Yi</span><span>Si Xuan Chen</span><span>Sandy Li</span></p>
 
 <p><span>Veronica Jia</span></p>
 
