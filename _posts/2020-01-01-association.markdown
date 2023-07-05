@@ -66,13 +66,13 @@ comments: true
 <p><span>Ruoshui Lei</span><span>Ruqing Li</span><span>Ryann Cheung</span></p>
 
 <p><span>Saranin(ShuHan Lin)</span><span>Shao Wen</span><span>Shifang Chen</span><span>Shi Yuanyu</span><span>Shi Yan</span><span>ShuoShuan Huang
-</span><span>Sichen Wu wy</span><span>Shi Yuanyu</span><span>Sun Yi</span><span>Si Xuan Chen</span><span>Sandy Li</span></p>
+</span><span>Sichen Wu wy</span><span>Shi Yuanyu</span><span>Sun Yi</span><span>Si Xuan Chen</span><span>Sandy Li</span><span>Susiee Niu</span></p>
 
 <p><span>Veronica Jia</span></p>
 
-<p><span>Wawa</span><span>Wei Ruolin</span><span>Weilin Chen</span><span>Wanny</span><span>Wang Lin CC</span><span>Wang Juan</span></p>
+<p><span>Wawa</span><span>Wei Ruolin</span><span>Weilin Chen</span><span>Wanny</span><span>Wang Lin CC</span><span>Wang Juan</span><span>Wang Jingjing</span></p>
 <p><span>Xiaoying Han</span><span>Xinyu Liang</span><span>Xu Qiyuan</span><span>Xian Nan</span><span>Xiu Fang Li</span><span>Xiaowai Deng</span><span>Xu.hairong</span><span>Xiaoyu Wang</span><span>Xuanxuan Wang</span></p>
-<p><span>Yang Ming</span><span>Yan Yu</span><span>Yanyan Gao</span><span>Yan Zhang</span><span>Ye Qing</span><span>YiZhen Liu</span><span>Yi Fan . Le</span><span>Yu Shu</span><span>YY Li</span><span>Yvonne Lu</span><span>Yawei Guo</span></p>
+<p><span>Yang Ming</span><span>Yan Yu</span><span>Yanyan Gao</span><span>Yan Zhang</span><span>Ye Qing</span><span>YiZhen Liu</span><span>Yi Fan . Le</span><span>Yu Shu</span><span>YY Li</span><span>Yvonne Lu</span><span>Yawei Guo</span><span>Yiru</span></p>
 <p><span>ZhiShunYang</span><span>Zhou Wenqin</span><span>Zhou Xun</span></p>
 </div>
 
