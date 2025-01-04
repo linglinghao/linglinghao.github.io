@@ -57,7 +57,7 @@ comments: true
 <p><span>Daniel Han</span><span>Derong Pan</span><span>Demon Wang</span></p>
 <p><span>Fengtao</span></p>
 <p><span>Ge Yizhen</span><span>Guangyu Wen</span></p>
-<p><span>He Baoying</span><span>Hunter Moran</span><span>Happiness Li</span><span>Hio U Wong</span><span>Hong Wei</span><span>He Zhang(Luna)</span><span>Hui JieShen</span></p>
+<p><span>He Baoying</span><span>Hunter Moran</span><span>Happiness Li</span><span>Hio U Wong</span><span>Hong Wei</span><span>He Zhang(Luna)</span><span>Hui JieShen</span><span>He jirui Sephiroth</span></p>
 <p><span>Ivy Jee Jia En</span></p>
 <p><span>JiaXing Sun</span><span>Jia YuanFei(YouRan)</span><span>Juan Chen</span><span>JUNYAO LI</span><span>Joeward</span><span>Jiacheng Xiong</span><span>LIXIA JIA</span><span>Lisa Hao</span><span>Lin lin</span><span>Li Jiaying</span><span>Liu Xiaoyue</span><span>Lei Yang</span><span>Luo Xiaorui</span><span>Lulu</span><span>Llenia</span><span>Liyu</span><span>Li fengyi</span></p>
 <p><span>Mai Shi Qi</span><span>Meng Chen</span><span>Ming Zheng</span><span>Mo Zhou</span><span>Mingjie Qi</span><span>Miao He</span></p>
