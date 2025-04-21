@@ -50,30 +50,30 @@ comments: true
 
 1. 联盟会员开放给所有独立的灵气从业者和导师
 <div class='member-box'>
-<p><span>Aana Chen</span><span>Abby Chen</span><span>Ashley Tsui</span><span>Annie An</span></p> 
+<p><span>Aana Chen</span><span>Abby Chen</span><span>Ashley Tsui</span><span>Annie An</span><span>Aisha Jin</span></p> 
 <p><span>Bai Xu</span><span>Bob Na</span><span>Bohan Lv</span><span>Bozhen Zhu</span></p>
 <p><span>Chang Yuju</span><span>ChenyuePeng</span><span>Chuyin Ricki</span><span>Chu , Kit yu Ayumi</span><span>Crystal Sun</span><span>Chonghua Lin
 </span><span>Cheng Cheng Jin</span><span>Chris</span><span>Cordelia Bai Qian</span><span>Caihong Li</span></p>
 <p><span>Daniel Han</span><span>Derong Pan</span><span>Demon Wang</span></p>
 <p><span>Fengtao</span></p>
 <p><span>Ge Yizhen</span><span>Guangyu Wen</span></p>
-<p><span>He Baoying</span><span>Hunter Moran</span><span>Happiness Li</span><span>Hio U Wong</span><span>Hong Wei</span><span>He Zhang(Luna)</span><span>Hui JieShen</span><span>He jirui Sephiroth</span></p>
+<p><span>He Baoying</span><span>Hunter Moran</span><span>Happiness Li</span><span>Hio U Wong</span><span>Hong Wei</span><span>He Zhang(Luna)</span><span>Hui JieShen</span><span>He jirui Sephiroth</span><span>Huo ying yi</span></p>
 <p><span>Ivy Jee Jia En</span></p>
 <p><span>JiaXing Sun</span><span>Jia YuanFei(YouRan)</span><span>Juan Chen</span><span>JUNYAO LI</span><span>Joeward</span><span>Jiacheng Xiong</span><span>Jen Ting Yu</span></p>
 <p><span>LIXIA JIA</span><span>Lisa Hao</span><span>Lin lin</span><span>Li Jiaying</span><span>Liu Xiaoyue</span><span>Lei Yang</span><span>Luo Xiaorui</span><span>Lulu</span><span>Llenia</span><span>Liyu</span><span>Li fengyi</span></p>
-<p><span>Mai Shi Qi</span><span>Meng Chen</span><span>Ming Zheng</span><span>Mo Zhou</span><span>Mingjie Qi</span><span>Miao He</span></p>
+<p><span>Mai Shi Qi</span><span>Meng Chen</span><span>Ming Zheng</span><span>Mo Zhou</span><span>Mingjie Qi</span><span>Miao He</span><span>Mo Lewei</span></p>
 <p><span>Nana Xu</span><span>Ning Qian</span><span>Ning Li</span></p>
 <p><span>Poppy Zeng</span></p>
 <p><span>Qin Hua</span></p>
 <p><span>Ruoshui Lei</span><span>Ruqing Li</span><span>Ryann Cheung</span></p>
 
 <p><span>Saranin(ShuHan Lin)</span><span>Shao Wen</span><span>Shifang Chen</span><span>Shi Yuanyu</span><span>Shi Yan</span><span>ShuoShuan Huang
-</span><span>Sichen Wu wy</span><span>Shi Yuanyu</span><span>Sun Yi</span><span>Si Xuan Chen</span><span>Sandy Li</span><span>Susiee Niu</span><span>Shengnan Yang</span></p>
+</span><span>Sichen Wu wy</span><span>Shi Yuanyu</span><span>Sun Yi</span><span>Si Xuan Chen</span><span>Sandy Li</span><span>Susiee Niu</span><span>Shengnan Yang</span><span>Sally</span></p>
 
 <p><span>Veronica Jia</span></p>
 
 <p><span>Wawa</span><span>Wei Ruolin</span><span>Weilin Chen</span><span>Wanny</span><span>Wang Lin CC</span><span>Wang Juan</span><span>Wang Jingjing</span></p>
 <p><span>Xiaoying Han</span><span>Xinyu Liang</span><span>Xu Qiyuan</span><span>Xian Nan</span><span>Xiu Fang Li</span><span>Xiaowai Deng</span><span>Xu.hairong</span><span>Xiaoyu Wang</span><span>Xuanxuan Wang</span><span>Xiaojihong</span></p>
-<p><span>Yang Ming</span><span>Yan Yu</span><span>Yanyan Gao</span><span>Yan Zhang</span><span>Ye Qing</span><span>YiZhen Liu</span><span>Yi Fan . Le</span><span>Yu Shu</span><span>YY Li</span><span>Yvonne Lu</span><span>Yawei Guo</span><span>Yiru</span><span>Yang Hsiang Yi</span><span>Yuxiaoyun</span><span>Yu Jiayi</span><span>YaoJun Gao</span><span>Yilun Xie</span></p>
+<p><span>Yang Ming</span><span>Yan Yu</span><span>Yanyan Gao</span><span>Yan Zhang</span><span>Ye Qing</span><span>YiZhen Liu</span><span>Yi Fan . Le</span><span>Yu Shu</span><span>YY Li</span><span>Yvonne Lu</span><span>Yawei Guo</span><span>Yiru</span><span>Yang Hsiang Yi</span><span>Yuxiaoyun</span><span>Yu Jiayi</span><span>YaoJun Gao</span><span>Yilun Xie</span><span>YUYUAN LIN</span></p>
 <p><span>ZhiShunYang</span><span>Zhou Wenqin</span><span>Zhou Xun</span></p>
 </div>
