@@ -64,7 +64,7 @@ comments: true
 <p><span>Mai Shi Qi</span><span>Meng Chen</span><span>Ming Zheng</span><span>Mo Zhou</span><span>Mingjie Qi</span><span>Miao He</span><span>Mo Lewei</span></p>
 <p><span>Nana Xu</span><span>Ning Qian</span><span>Ning Li</span></p>
 <p><span>Poppy Zeng</span></p>
-<p><span>Qin Hua</span></p>
+<p><span>Qin Hua</span><span>QiYi</span></p>
 <p><span>Ruoshui Lei</span><span>Ruqing Li</span><span>Ryann Cheung</span></p>
 
 <p><span>Saranin(ShuHan Lin)</span><span>Shao Wen</span><span>Shifang Chen</span><span>Shi Yuanyu</span><span>Shi Yan</span><span>ShuoShuan Huang
