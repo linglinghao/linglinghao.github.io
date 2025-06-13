@@ -52,8 +52,7 @@ comments: true
 <div class='member-box'>
 <p><span>Aana Chen</span><span>Abby Chen</span><span>Ashley Tsui</span><span>Annie An</span><span>Aisha Jin</span></p> 
 <p><span>Bai Xu</span><span>Bob Na</span><span>Bohan Lv</span><span>Bozhen Zhu</span></p>
-<p><span>Chang Yuju</span><span>ChenyuePeng</span><span>Chuyin Ricki</span><span>Chu , Kit yu Ayumi</span><span>Crystal Sun</span><span>Chonghua Lin
-</span><span>Cheng Cheng Jin</span><span>Chris</span><span>Cordelia Bai Qian</span><span>Caihong Li</span><span>Chen Xun</span></p>
+<p><span>Chang Yuju</span><span>ChenyuePeng</span><span>Chuyin Ricki</span><span>Chu , Kit yu Ayumi</span><span>Crystal Sun</span><span>Chonghua Lin</span><span>Cheng Cheng Jin</span><span>Chris</span><span>Cordelia Bai Qian</span><span>Caihong Li</span><span>Chen Xun</span></p>
 <p><span>Daniel Han</span><span>Derong Pan</span><span>Demon Wang</span></p>
 <p><span>Fengtao</span></p>
 <p><span>Ge Yizhen</span><span>Guangyu Wen</span></p>
